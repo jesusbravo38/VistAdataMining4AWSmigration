@@ -1,1 +1,1 @@
-# VistAdataMining4EC2migration
+# VistAdataMining4AWSmigration
